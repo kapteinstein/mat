@@ -1,3 +1,9 @@
+/data-fetch/*.json
+/data-fetch/*.sqlite
+*.tar.gz
+
+.vscode/
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,macos,linux,intellij+all,zsh,python,rust,go
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,vim,macos,linux,intellij+all,zsh,python,rust,go
 
